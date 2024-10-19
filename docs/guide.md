@@ -12,13 +12,12 @@ Visit the [repository](https://github.com/evavic44/portfolio-ideas) on Github an
 ![fork-project](https://user-images.githubusercontent.com/62628408/164759147-84c9baa0-503e-4163-a352-6132de3b916c.png)
 -->
 **Me-Graduate**
-- **Bachelors Credential**
-  Information Technology (16"th June, 2024)
+- **Bachelor's in Information Technology**
   Vignan Institute of Technology and Science | CGPA: 7.45
-
----
+  Graduated: June 16th, 2024
 
 **Skills**
+```
 - **Tech Stack**  
   Java, Python, Web Development (HTML, CSS), JavaScript, Azure
 
@@ -27,10 +26,9 @@ Visit the [repository](https://github.com/evavic44/portfolio-ideas) on Github an
 
 - **Tools**  
   Google Colab, VSCode, Spyder, Tableau
-
----
-
+```
 **Credentials**
+```
 - **Azure Fundamentals AZ-900**  
   Microsoft Azure
 
@@ -39,7 +37,7 @@ Visit the [repository](https://github.com/evavic44/portfolio-ideas) on Github an
 
 - **Troubleshooting Tableau**  
   Spring Board
-
+```
 ## Crafts & Details
 
 Projects - `Cyclone Analysis, Fiestel-P-VOL, 1215-Music`
@@ -94,23 +92,16 @@ Future in process..... 😑
 
 ## Need more help? 🤔
 
-If you need any adittional guide or help with any issues, feel free to contact me on [twitter](https://twitter.com/victorekea) and I'll answer ASAP. That's a promise 🤝🏽😊
+contact me, [mail](bhuvankandhi2002@gmail.com) and I'll answer ASAP 😊.
 
 ## Sponsor
 
 Wanna buy me a coffee, I'll sincerely appreciate it. Here's the link below.
 
-<a href="https://www.buymeacoffee.com/victoreke">
- <img width="150px" alt="bmc-button" src="https://user-images.githubusercontent.com/62628408/127788747-8850d386-fc61-4fff-b18f-8c5ee597be34.png">
+<a href="https://www.buymeacoffee.com/bhuvankande" target="_blank">
+  <img width="150px" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee">
 </a>
-
-<hr>
-I hope you have a lot of fun while contributing to this project, if you drew inspiration from any portfolio on this repo, consider starring this project or sending the creator a thank you message. I sincerely hope you build an amazing portfolio website that will blow the recruiter or visitor's mind. Goodluck. ⚡
-
-<hr>
-<img src="https://user-images.githubusercontent.com/62628408/163662723-96f828c7-a971-473a-83a0-33d23a0f7efe.png" alt="portfolio ideas comic">
 
 # Contributing
 
-We love pull requests from everyone. By participating in this project, you
-agree to abide by the [Code Of Conduct](https://github.com/Evavic44/portfolio-ideas/blob/main/CODE_OF_CONDUCT.md).
+want to work together, should agree to abide by the [Code Of Conduct](https://github.com/pancakehub/Readme/blob/main/README.md).
