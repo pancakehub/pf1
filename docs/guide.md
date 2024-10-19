@@ -1,74 +1,105 @@
 <div align="center">
-  <h1>Contribution Guidelines</h1>
-  This documentation contains a set of guidelines to help you during the contribution process of this project.
+  <h1>Crafts & Projects</h1>
+  Me. Skills. Credentials.
 </div>
 <br>
 
-## Step 1. Fork the repository
+## Acedamics
 
 Visit the [repository](https://github.com/evavic44/portfolio-ideas) on Github and scroll to the readme section, you'll see a pencil icon on the right, click it to fork the project. This will create a copy in your account.
 
 ![fork-project](https://user-images.githubusercontent.com/62628408/164759147-84c9baa0-503e-4163-a352-6132de3b916c.png)
 
-## Step 2. Create a new table
+**Me-Graduate**
+- **Bachelors Credential**
+  Information Technology (16", 2024) from Vignan Institute of Technology and Science
+  CGPA: 7.45
 
-The portfolio examples are enclosed between two comments:
+---
 
-- `<! -- ⭐ PORTFOLIO START ⭐ -- >`
-- `<! -- ⭐ PORTFOLIO END ⭐ -- >`
+## Crafts & Details
 
-![portfolio-comments.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1650538444320/u2D5Yjfpv.png)
+**Skills**
+- **Tech Stack**  
+  Java, Python, Web Development (HTML, CSS), JavaScript, Azure
 
-To add a portfolio, you can either create a new table or copy an already existing table at the bottom of the list and edit it, your choice.
+- **Familiar**  
+  IoT, MySQL, Linux, Git & GitHub
 
-> **Warning**
->
-> DISCLAIMER: ⚠️Portfolios should be added at bottom of the list.
+- **Tools**  
+  Google Colab, VSCode, Spyder, Tableau
 
-## Step 3. Add Portfolio Details
+---
 
-In the new table, start each column with a `|` symbol followed by the column content:
+**Credentials**
+- **Azure Fundamentals AZ-900**  
+  Microsoft Azure
 
-### ⚡ Author Name
+- **Cloud Computing**  
+  NPTEL
 
-Start a new line below the latest portfolio and add the author or creator of the portfolio website, like so: `| Jemima Abu`
+- **Troubleshooting Tableau**  
+  Spring Board
 
-![author-name.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1650538578159/kX0S0PKsB.png)
+---
 
-### ⚡Screenshot
+## Hobbies & Investment
 
-Take a screenshot of the homepage of the portfolio website, drag it and drop it into the screenshot column. Please before adding the screenshot, use services like [tinypng.com](https://tinypng.com) or [compressor.io](https://compressor.io) to optimize the image sizes.
+*Growth. Hobbies. Time Waste.*
 
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650495714252/NSLTPxLxe.gif" width="800px">
+**What I Invest In**
+In my free time, I love indulging in my favorite web series and movies, which allow me to escape into different worlds and enjoy captivating stories. Running is another passion of mine; it not only keeps me fit but also clears my mind and boosts my mood. Additionally, I find joy in reading comics, as they offer a perfect blend of art and storytelling, sparking my imagination and providing a fun way to unwind. These hobbies keep me balanced, energized, and inspired!
 
-### ⚡Live URL
+---
 
-Add the live link to the portfolio website. PS: Omit the `https://` protocol on the link text.
-Example:
+**What I Gain**
+Self-healing with...
 
-```
-[victoreke.com](https://victoreke.com)
-```
+- **Relaxation and Enjoyment** - These hobbies provide you with enjoyment and an escape, allowing you to unwind from daily stress.
+- **Physical and Mental Well-being** - Commitment to physical fitness and mental clarity, demonstrating a balanced lifestyle.
+- **Imagination and Creativity** - Reading comics showcases your appreciation for art and storytelling, reflecting your creative side and ability to think outside the box (try manga and manhwa).
+- **Balance** - These hobbies help you maintain a balanced life, keeping you energized and inspired.
 
-<!-- ![live-url.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1650498090936/9SxKjCC54.gif) -->
+---
 
-### ⚡Repo
+### 📅**2024**
+- **Cyclone Analysis**
+  Developed a data analytics model to identify tropical cyclone centers using wind stress, wind curl, 
+  and divergence analysis techniques. Employed with wind components data from EOS-6 satellite's 
+  scatteromter L2B data in HDF5 format, applying advanced analytics methodologies to interpret 
+  patterns and streamline cyclone center detection. Integration of these techniques enhanced 
+  accuracy and efficiency in forecasting cyclone formation and behavior.
 
-If the portfolio is available on GitHub, post the repository link, if not, just write **"None"**
+  [GitHub Repository](https://github.com/Karroat/Cyclone-Analysis.git)
+  
+  (Python, Google Colab, Deep Learning Techniques, Tensorflow, Matplotlib)
 
-`[GitHub](https://github.com/jemimaabu/portfolio)`
+---
 
-![repository.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1650498457473/89BPbVRg0.png)
+### 📅**2023**
+- **Fiestel-P-VOL** Cryptography Algorithm
+  Uses an old algorithm widely used in world war 1 and 2 to provide a highly secure communication 
+  path. The system performs deciphering automatically without user interruption and encrypts
+  plain text further in layers.
 
-### ⚡Tech Stack
+  [GitHub Repository](https://github.com/Karroat/fiestel.git)
 
-The next and final thing to add is the tech stack of the portfolio website. You can use [wappalyzer](https://wappalyzer.com), or any other service to detect the stack.
+  (Java, VSCode, Cryptography Techniques)
+
+- **1215-Music** Musical Cryptography Algorithm 
+  A web application which integrates musical nodes with cryptography.
+
+  [GitHub Repository](https://github.com/Karroat/1215music.git)
+
+  (JavaScript, Html, Css, VSCode, Cryptography Techniques)
 
 E.g `HTML, CSS, JavaScript`
 
-## Step 4. Preview and create a PR
+---
 
-Now we are done adding all the portfolio information, preview the portfolio added and make sure it corresponds with the table, then raise a pull request.
+## Journals/Papers
+
+Future in process..... 😑
 
 ## Need more help? 🤔
 
