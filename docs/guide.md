@@ -13,6 +13,7 @@ Visit the [repository](https://github.com/evavic44/portfolio-ideas) on Github an
 -->
 **Me-Graduate**
 - **Bachelor's in Information Technology**
+
   Vignan Institute of Technology and Science | CGPA: 7.45
   Graduated: June 16th, 2024
 
