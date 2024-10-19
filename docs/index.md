@@ -30,7 +30,7 @@ features:
     details: available for valo, id- carrot.
   - icon: 💾
     title: Old Archives.
-    details: visit Guide/Old Archives
+    details: visit Bio> Old Archives> previous versions...
 
 # Meta property
 head:
