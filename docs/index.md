@@ -30,7 +30,7 @@ features:
     details: available for valo, id- carrot.
   - icon: 💾
     title: old archive site.
-    details:  [Portfolio Ver.1](https://perwebk-portfolio.pages.dev/)
+    details: visit Guides/Old Archives
 
 # Meta property
 head:
