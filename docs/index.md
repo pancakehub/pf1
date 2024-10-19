@@ -15,7 +15,7 @@ hero:
       link: /portfolio
     - theme: alt
       text: View on GitHub
-      link: https://github.com/Evavic44/portfolio-ideas
+      link: https://github.com/Karroat
 
 # Features section
 features:
