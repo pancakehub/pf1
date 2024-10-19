@@ -10,7 +10,7 @@ export default {
       { text: "Bio", link: "/guide" },
       { text: "Contributors", link: "/contributors" },
     ],
-    socialLinks: [{ icon: "github", link: "https://github.com/evavic44" }],
+    socialLinks: [{ icon: "github", link: "https://github.com/Karroat" }],
     footer: {
       message: "Released under the MIT License.",
       copyright: "Copyright © 2024-karrot | Bhuvan.Kandhi",
