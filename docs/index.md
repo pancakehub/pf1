@@ -4,7 +4,7 @@ layout: home
 # Hero section
 hero:
   name: Create.
-  text: Share.                  Repeat.
+  text: Share.Repeat.
   image:
     src: /header.png
     alt: Portfolio-ideas logo
