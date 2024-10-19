@@ -25,16 +25,17 @@
 
 <div align="center" style="display: flex; flex-wrap:wrap;">
   <div class="contributor">
-    <a href="http://victoreke.com">
-      <img src="https://avatars.githubusercontent.com/u/62628408?v=4?s=100" width="100px;" alt="Victor Eke"/>
+    <a href="https://github.com/Karroat">
+      <img src="https://drive.google.com/file/d/1AxS2QzHGd9fqKL5kq9WBJCpX4lJLWOzi/view?usp=sharing" width="100px;" alt="Victor Eke"/>
       <sub><b>Victor Eke </b></sub>
     </a>
     <br />
     <a href="#maintenance-Evavic44" title="Maintenance">🚧</a> 
-    <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=Evavic44" title="Code">💻</a> 
-    <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=Evavic44" title="Documentation">📖</a> 
-    <a href="https://github.com/Evavic44/portfolio-ideas/issues?q=author%3AEvavic44" title="Bug reports">🐛</a>
+    <a href="https://drive.google.com/file/d/1iWBi0xr7kVKRVHIq_VzObEXem9PCLxU-/view?usp=sharing" title="Resume">📄</a> 
+    <a href="https://x.com/BhuvanchandaraK" title="Twitter">⚔️</a> 
+    <a href="https://www.linkedin.com/in/bhuvan-k-62263a243/" title="Linkedin">💻</a>
+    <a href="mailto:bhuvankandhi2002@gmail.com" title="Email">📧</a>
   </div>
 </div>
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+This project follows the [all-my-work](https://github.com/Karroat) specification. Contributions of any kind are welcome!
