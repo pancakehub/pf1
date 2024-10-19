@@ -72,7 +72,7 @@ Self-healing with...
 
   [GitHub Repository](https://github.com/Karroat/Cyclone-Analysis.git)
   
-  (Python, Google Colab, Deep Learning Techniques, Tensorflow, Matplotlib)
+  E.g `Python, Google Colab, Deep Learning Techniques, Tensorflow, Matplotlib`
 
 ---
 
@@ -84,16 +84,14 @@ Self-healing with...
 
   [GitHub Repository](https://github.com/Karroat/fiestel.git)
 
-  (Java, VSCode, Cryptography Techniques)
+  E.g `Java, VSCode, Cryptography Techniques`
 
 - **1215-Music** Musical Cryptography Algorithm 
   A web application which integrates musical nodes with cryptography.
 
   [GitHub Repository](https://github.com/Karroat/1215music.git)
 
-  (JavaScript, Html, Css, VSCode, Cryptography Techniques)
-
-E.g `HTML, CSS, JavaScript`
+  E.g `JavaScript, Html, Css, VSCode, Cryptography Techniques`
 
 ---
 
