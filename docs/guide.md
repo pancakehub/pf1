@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Bio</h1>
-  Me. Skills. Credentials.
+  <em>Work. Hobby. Open Source.</em>
 </div>
 <br>
 
@@ -40,8 +40,6 @@ Visit the [repository](https://github.com/evavic44/portfolio-ideas) on Github an
 - **Troubleshooting Tableau**  
   Spring Board
 
----
-
 ## Crafts & Details
 
 Projects - `Cyclone Analysis, Fiestel-P-VOL, 1215-Music`
@@ -74,8 +72,6 @@ Projects - `Cyclone Analysis, Fiestel-P-VOL, 1215-Music`
   [GitHub Repository](https://github.com/Karroat/1215music.git)
 
   Stack used - `JavaScript, Html, Css, VSCode, Cryptography Techniques`
-
----
 
 ## Hobbies & Investment
 
