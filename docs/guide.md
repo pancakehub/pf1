@@ -92,6 +92,10 @@ Self-healing with...
 
 Future in process..... 😑
 
+## Old Archives 💾
+
+[personal website version. 1](https://perwebk-portfolio.pages.dev/)
+
 ## Need more help? 🤔
 
 Contact me at [mail](mailto:bhuvankandhi2002@gmail.com), and I'll answer ASAP 😊.

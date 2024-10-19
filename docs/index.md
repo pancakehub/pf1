@@ -20,8 +20,8 @@ hero:
 # Features section
 features:
   - icon: 🤓
-    title: The Devloper, 
-    details: I’m Bhuvan, coding for a lazier tomorrow. 😴
+    title: The Devloper, Bhuvan.K
+    details: Coding for a lazier tomorrow. 😴
   - icon: 🎫
     title: Movies & Music
     details: Future update...
@@ -29,7 +29,7 @@ features:
     title: Games & Manga
     details: available for valo, id- carrot.
   - icon: 💾
-    title: old archive site.
+    title: Old Archives.
     details: visit Guide/Old Archives
 
 # Meta property
