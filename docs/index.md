@@ -8,10 +8,10 @@ hero:
   image:
     src: /header.png
     alt: Portfolio-ideas logo
-  tagline: A curation of awesome portfolio website ideas for developers and designers to draw inspiration from.
+  tagline: The boaring journey of a fresher not so geek site 👓.
   actions:
     - theme: brand
-      text: See Portfolios
+      text: Projects
       link: /portfolio
     - theme: alt
       text: View on GitHub
@@ -19,18 +19,18 @@ hero:
 
 # Features section
 features:
-  - icon: 💜
-    title: The Best Resource
-    details: Over 130+ inspiration in a single repository
-  - icon: ⚛️
-    title: Technologies Used
-    details: Discover the technologies used for each portfolio.
-  - icon: 📷
-    title: Portfolio Screenshot
-    details: Know what each portfolio looks like without visiting it
-  - icon: 🥑
-    title: Source Code
-    details: Portfolio source code available.
+  - icon: 🤓
+    title: The Devloper, 
+    details: I’m Bhuvan, coding for a lazier tomorrow. 😴
+  - icon: 🎫
+    title: Movies & Music
+    details: Future update...
+  - icon: 🎮
+    title: Games & Manga
+    details: available for valo, id- carrot.
+  - icon: 💾
+    title: old archive site.
+    details: [Portfolio Ver.1](https://perwebk-portfolio.pages.dev/)
 
 # Meta property
 head:
