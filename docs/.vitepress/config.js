@@ -4,7 +4,7 @@ export default {
 
   themeConfig: {
     logo: "/logo.svg",
-    siteTitle: "Portfolio Ideas",
+    siteTitle: "Port-f-olio",
     nav: [
       { text: "Crafts/Projects", link: "/portfolio" },
       { text: "Bio", link: "/guide" },
