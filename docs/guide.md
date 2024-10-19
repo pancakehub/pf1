@@ -41,6 +41,7 @@ Visit the [repository](https://github.com/evavic44/portfolio-ideas) on Github an
   Spring Board
 
 ---
+
 ## Crafts & Details
 
 Projects - `Cyclone Analysis, Fiestel-P-VOL, 1215-Music`
@@ -56,8 +57,6 @@ Projects - `Cyclone Analysis, Fiestel-P-VOL, 1215-Music`
   [GitHub Repository](https://github.com/Karroat/Cyclone-Analysis.git)
   
   Stack used - `Python, Google Colab, Deep Learning Techniques, Tensorflow, Matplotlib`
-
----
 
 ### 📅**2023**
 - **Fiestel-P-VOL** Cryptography Algorithm
@@ -92,8 +91,6 @@ Self-healing with...
 - **Physical and Mental Well-being** - Commitment to physical fitness and mental clarity, demonstrating a balanced lifestyle.
 - **Imagination and Creativity** - Reading comics showcases your appreciation for art and storytelling, reflecting your creative side and ability to think outside the box (try manga and manhwa).
 - **Balance** - These hobbies help you maintain a balanced life, keeping you energized and inspired.
-
----
 
 ## Journals/Papers
 
