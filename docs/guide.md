@@ -5,11 +5,11 @@
 <br>
 
 ## Acedamics
-
+<!--
 Visit the [repository](https://github.com/evavic44/portfolio-ideas) on Github and scroll to the readme section, you'll see a pencil icon on the right, click it to fork the project. This will create a copy in your account.
 
 ![fork-project](https://user-images.githubusercontent.com/62628408/164759147-84c9baa0-503e-4163-a352-6132de3b916c.png)
-
+-->
 **Me-Graduate**
 - **Bachelors Credential**
   Information Technology (16", 2024) from Vignan Institute of Technology and Science
