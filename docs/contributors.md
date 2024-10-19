@@ -26,7 +26,7 @@
 <div align="center" style="display: flex; flex-wrap:wrap;">
   <div class="contributor">
     <a href="https://github.com/Karroat">
-      <img src="https://drive.google.com/file/d/1AxS2QzHGd9fqKL5kq9WBJCpX4lJLWOzi/view?usp=sharing" width="100px;" alt="Bhuvan Kandhi"/>
+      <img src="https://ibb.co/hBdqnmf" width="100px;" alt="Bhuvan Kandhi"/>
       <sub><b>Bhuvan.K</b></sub>
     </a>
     <br />
