@@ -1,10 +1,11 @@
 <div align="center">
-  <h1>Crafts & Projects</h1>
+  <h1>Bio</h1>
   Me. Skills. Credentials.
 </div>
 <br>
 
 ## Acedamics
+*Me. Skills. Credentials.*
 <!--
 Visit the [repository](https://github.com/evavic44/portfolio-ideas) on Github and scroll to the readme section, you'll see a pencil icon on the right, click it to fork the project. This will create a copy in your account.
 
@@ -12,12 +13,10 @@ Visit the [repository](https://github.com/evavic44/portfolio-ideas) on Github an
 -->
 **Me-Graduate**
 - **Bachelors Credential**
-  Information Technology (16", 2024) from Vignan Institute of Technology and Science
-  CGPA: 7.45
+  Information Technology (16"th June, 2024)
+  Vignan Institute of Technology and Science | CGPA: 7.45
 
 ---
-
-## Crafts & Details
 
 **Skills**
 - **Tech Stack**  
@@ -42,25 +41,9 @@ Visit the [repository](https://github.com/evavic44/portfolio-ideas) on Github an
   Spring Board
 
 ---
+## Crafts & Details
 
-## Hobbies & Investment
-
-*Growth. Hobbies. Time Waste.*
-
-**What I Invest In**
-In my free time, I love indulging in my favorite web series and movies, which allow me to escape into different worlds and enjoy captivating stories. Running is another passion of mine; it not only keeps me fit but also clears my mind and boosts my mood. Additionally, I find joy in reading comics, as they offer a perfect blend of art and storytelling, sparking my imagination and providing a fun way to unwind. These hobbies keep me balanced, energized, and inspired!
-
----
-
-**What I Gain**
-Self-healing with...
-
-- **Relaxation and Enjoyment** - These hobbies provide you with enjoyment and an escape, allowing you to unwind from daily stress.
-- **Physical and Mental Well-being** - Commitment to physical fitness and mental clarity, demonstrating a balanced lifestyle.
-- **Imagination and Creativity** - Reading comics showcases your appreciation for art and storytelling, reflecting your creative side and ability to think outside the box (try manga and manhwa).
-- **Balance** - These hobbies help you maintain a balanced life, keeping you energized and inspired.
-
----
+Projects - `Cyclone Analysis, Fiestel-P-VOL, 1215-Music`
 
 ### 📅**2024**
 - **Cyclone Analysis**
@@ -92,6 +75,23 @@ Self-healing with...
   [GitHub Repository](https://github.com/Karroat/1215music.git)
 
   Stack used - `JavaScript, Html, Css, VSCode, Cryptography Techniques`
+
+---
+
+## Hobbies & Investment
+
+*Growth. Hobbies. Time Waste.*
+
+**What I Invest In**
+In my free time, I love indulging in my favorite web series and movies, which allow me to escape into different worlds and enjoy captivating stories. Running is another passion of mine; it not only keeps me fit but also clears my mind and boosts my mood. Additionally, I find joy in reading comics, as they offer a perfect blend of art and storytelling, sparking my imagination and providing a fun way to unwind. These hobbies keep me balanced, energized, and inspired!
+
+**What I Gain**
+Self-healing with...
+
+- **Relaxation and Enjoyment** - These hobbies provide you with enjoyment and an escape, allowing you to unwind from daily stress.
+- **Physical and Mental Well-being** - Commitment to physical fitness and mental clarity, demonstrating a balanced lifestyle.
+- **Imagination and Creativity** - Reading comics showcases your appreciation for art and storytelling, reflecting your creative side and ability to think outside the box (try manga and manhwa).
+- **Balance** - These hobbies help you maintain a balanced life, keeping you energized and inspired.
 
 ---
 
