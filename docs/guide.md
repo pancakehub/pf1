@@ -18,24 +18,24 @@ Visit the [repository](https://github.com/evavic44/portfolio-ideas) on Github an
 
 **Skills**
 ```
-- **Tech Stack**  
+- Tech Stack 
   Java, Python, Web Development (HTML, CSS), JavaScript, Azure
 
-- **Familiar**  
+- Familiar
   IoT, MySQL, Linux, Git & GitHub
 
-- **Tools**  
+- Tools
   Google Colab, VSCode, Spyder, Tableau
 ```
 **Credentials**
 ```
-- **Azure Fundamentals AZ-900**  
+- Azure Fundamentals AZ-900 
   Microsoft Azure
 
-- **Cloud Computing**  
+- Cloud Computing  
   NPTEL
 
-- **Troubleshooting Tableau**  
+- Troubleshooting Tableau  
   Spring Board
 ```
 ## Crafts & Details
