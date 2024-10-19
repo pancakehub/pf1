@@ -102,6 +102,6 @@ Wanna buy me a coffee, I'll sincerely appreciate it. Here's the link below.
   <img width="150px" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee">
 </a>
 
-# Contributing
+## Contributing
 
 want to work together, should agree to abide by the [Code Of Conduct](https://github.com/pancakehub/Readme/blob/main/README.md).
