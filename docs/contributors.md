@@ -26,11 +26,10 @@
 <div align="center" style="display: flex; flex-wrap:wrap;">
   <div class="contributor">
     <a href="https://github.com/Karroat">
-      <img src="https://drive.google.com/file/d/1AxS2QzHGd9fqKL5kq9WBJCpX4lJLWOzi/view?usp=sharing" width="100px;" alt="Victor Eke"/>
-      <sub><b>Victor Eke </b></sub>
+      <img src="https://drive.google.com/file/d/1AxS2QzHGd9fqKL5kq9WBJCpX4lJLWOzi/view?usp=sharing" width="100px;" alt="Bhuvan Kandhi"/>
+      <sub><b>Bhuvan.K</b></sub>
     </a>
     <br />
-    <a href="#maintenance-Evavic44" title="Maintenance">🚧</a> 
     <a href="https://drive.google.com/file/d/1iWBi0xr7kVKRVHIq_VzObEXem9PCLxU-/view?usp=sharing" title="Resume">📄</a> 
     <a href="https://x.com/BhuvanchandaraK" title="Twitter">⚔️</a> 
     <a href="https://www.linkedin.com/in/bhuvan-k-62263a243/" title="Linkedin">💻</a>
