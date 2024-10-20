@@ -30,7 +30,7 @@ features:
     details: Coding for a lazier tomorrow. 😴
   - icon: 🎫
     title: Movies & Music
-    details: Future update...
+    details: Future in process...
   - icon: 🎮
     title: Games & Manga
     details: available for valo, id- carrot.
