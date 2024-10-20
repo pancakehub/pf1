@@ -20,7 +20,7 @@ hero:
 # Features section
 features:
   - icon: 🤓
-    title: The Devloper, Bhuvan.K (ブヴァン) can call me Karroat 🥕.
+    title: The Devloper, Bhuvan.K  (ブヴァン) can call me        Karroat 🥕.
     details: Coding for a lazier tomorrow. 😴
   - icon: 🎫
     title: Movies & Music
