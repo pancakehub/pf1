@@ -16,6 +16,9 @@ hero:
     - theme: alt
       text: View on GitHub
       link: https://github.com/Karroat
+    - theme: alt
+      text: Resume
+      link: https://drive.google.com/file/d/1iWBi0xr7kVKRVHIq_VzObEXem9PCLxU-/view?usp=sharing
 
 # Features section
 features:
