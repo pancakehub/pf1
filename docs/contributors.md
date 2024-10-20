@@ -26,7 +26,7 @@
 <div align="center" style="display: flex; flex-wrap:wrap;">
   <div class="contributor">
     <a href="https://github.com/Karroat">
-      <img src="https://64.media.tumblr.com/cfd0257294746af3fb18fdc935543a6e/4ff2a6dffa0053f1-43/s640x960/c6527cafbdd218af8d2945139047f120c1a7eebe.png" width="100px" alt="Bhuvan Kandhi">
+      <img src="https://raw.githubusercontent.com/pancakehub/Readme/main/assets/images/oneeyecat.jpg" width="100px" alt="Bhuvan Kandhi">
       <sub><b>Bhuvan.K</b></sub>
     </a>
     <br />
