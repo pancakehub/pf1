@@ -21,9 +21,9 @@ hero:
 features:
   - icon: 🤓
     title: The Developer, I go by  
-             Bhuvan K  
-             ブヴァン  
-             Karroat 🥕.
+             @Bhuvan.K  
+             @ブヴァン  
+             @Karroat 🥕.
     details: Coding for a lazier tomorrow. 😴
   - icon: 🎫
     title: Movies & Music
