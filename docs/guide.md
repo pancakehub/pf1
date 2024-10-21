@@ -4,7 +4,7 @@
 </div>
 <br>
 
-## Acedamics
+## Academics
 *Me. Skills. Credentials.*
 <!--
 Visit the [repository](https://github.com/evavic44/portfolio-ideas) on Github and scroll to the readme section, you'll see a pencil icon on the right, click it to fork the project. This will create a copy in your account.

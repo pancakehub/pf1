@@ -8,7 +8,7 @@ hero:
   image:
     src: /header.png
     alt: Portfolio-ideas logo
-  tagline: The boaring journey of a fresher not so geek site 👓.
+  tagline: The boring journey of a fresher not so geek site 👓.
   actions:
     - theme: brand
       text: Projects
