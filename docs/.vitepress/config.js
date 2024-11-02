@@ -7,7 +7,7 @@ export default {
     siteTitle: "Port-f-olio",
     nav: [
       { text: "Crafts/Projects", link: "/portfolio" },
-      { text: "Bio", link: "/guide" },
+      { text: "Bio", link: "/bio" },
       { text: "Contributors", link: "/contributors" },
     ],
     socialLinks: [{ icon: "github", link: "https://github.com/Karroat" }],
