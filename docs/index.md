@@ -19,6 +19,10 @@ hero:
     - theme: alt
       text: Resume
       link: https://drive.google.com/file/d/1iWBi0xr7kVKRVHIq_VzObEXem9PCLxU-/view?usp=sharing
+    
+    
+
+
 
 # Features section
 features:
@@ -37,6 +41,7 @@ features:
   - icon: 💾
     title: Old Archives.
     details: visit Bio> Old Archives> previous versions...
+
 
 
 # Meta property
@@ -64,11 +69,28 @@ head:
       type: image/svg
       href: logo.svg
 ---
----
-<p style="text-align: center; font-style: italic;">
-  ```
-  The average piece of junk is probably more meaningful than the criticism designating it as such.
-  ```
-</p>
 
----
+
+<script setup>
+import { ref } from 'vue'
+
+const quote = '📜 The average piece of junk is probably more meaningful than the criticism designating it as such.'
+</script>
+
+<style scoped>
+blockquote {
+  text-align: center;
+  font-style: italic;
+  border-left: 4px solid #ddd;
+  padding-left: 16px;
+  margin: 20px 0;
+}
+</style>
+
+> {{ quote }}
+<!--
+```
+hello
+```
+### <Badge type="info">custom element</Badge>
+-->
