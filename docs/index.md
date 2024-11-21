@@ -40,7 +40,7 @@ features:
 # Add the quote below the features section
 quote:
   -icon: 📜
-    details: "*The average piece of junk is probably more meaningful than the criticism designating it as such.*"
+    details: The average piece of junk is probably more meaningful than the criticism designating it as such.
 
 
 # Meta property
