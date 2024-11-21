@@ -64,6 +64,6 @@ head:
       type: image/svg
       href: logo.svg
 ---
-# quote 
-quote:
-  text: "*The average piece of junk is probably more meaningful than the criticism designating it as such.*"
+<p style="text-align: center; font-style: italic;">
+  The average piece of junk is probably more meaningful than the criticism designating it as such.
+</p>
