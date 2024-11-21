@@ -37,6 +37,10 @@ features:
   - icon: 💾
     title: Old Archives.
     details: visit Bio> Old Archives> previous versions...
+# Add the quote below the features section
+quote:
+  text: "*The average piece of junk is probably more meaningful than the criticism designating it as such.*"
+
 
 # Meta property
 head:
@@ -62,9 +66,8 @@ head:
     - rel: icon
       type: image/svg
       href: logo.svg
-# Footer section
-footer:
-  text: "*The average piece of junk is probably more meaningful than the criticism designating it as such.*"
+
+
 
 
 ---
