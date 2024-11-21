@@ -39,7 +39,8 @@ features:
     details: visit Bio> Old Archives> previous versions...
 # Add the quote below the features section
 quote:
-  text: "*The average piece of junk is probably more meaningful than the criticism designating it as such.*"
+  -icon: 📜
+    details: "*The average piece of junk is probably more meaningful than the criticism designating it as such.*"
 
 
 # Meta property
