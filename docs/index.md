@@ -38,9 +38,10 @@ features:
     title: Old Archives.
     details: visit Bio> Old Archives> previous versions...
 # Add the quote below the features section
-quote:
-  icon: 📜
-  text: The average piece of junk is probably more meaningful than the criticism designating it as such.
+# Quote
+<p style="text-align: center; font-style: italic;">
+  The average piece of junk is probably more meaningful than the criticism designating it as such.
+</p>
 
 
 # Meta property
@@ -67,8 +68,4 @@ head:
     - rel: icon
       type: image/svg
       href: logo.svg
-
-
-
-
 ---
