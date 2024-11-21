@@ -62,4 +62,9 @@ head:
     - rel: icon
       type: image/svg
       href: logo.svg
+# Footer section
+footer:
+  text: "*The average piece of junk is probably more meaningful than the criticism designating it as such.*"
+
+
 ---
