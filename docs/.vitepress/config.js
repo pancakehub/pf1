@@ -1,5 +1,5 @@
 export default {
-  title: "BhuvanK.",
+  title: "Port-f-olio",
   description: "A curation of awesome portfolio to draw inspiration",
 
   themeConfig: {
