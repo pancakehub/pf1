@@ -74,7 +74,7 @@ head:
 <script setup>
 import { ref } from 'vue'
 
-const quote = '📜 The average piece of junk is probably more meaningful than the criticism designating it as such.'
+const quote = '📜 The average piece of junk is probably more meaningful than the criticism designating it as such.  ~ Ratatouille'
 </script>
 
 <style scoped>
