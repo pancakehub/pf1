@@ -1,10 +1,10 @@
 export default {
-  title: "Port-f-olio",
+  title: "BhuvanK.",
   description: "A curation of awesome portfolio to draw inspiration",
 
   themeConfig: {
     logo: "/logo.svg",
-    siteTitle: "BhuvanK.",
+    siteTitle: "Port-f-olio",
     nav: [
       { text: "Crafts/Projects", link: "/portfolio" },
       { text: "Bio", link: "/bio" },
