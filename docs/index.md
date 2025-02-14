@@ -19,9 +19,9 @@ hero:
     - theme: alt
       text: Resume
       link: https://drive.google.com/file/d/1C1Va9CjT2RHgasIsSAykMdnV76qwVafL/view?usp=sharing
-    
-    
-
+    - theme: alt
+      text: LinkedIn
+      link: https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=bhuvan-k-62263a243 
 
 
 # Features section
@@ -69,6 +69,8 @@ head:
       type: image/svg
       href: logo.svg
 ---
+
+
 
 
 <script setup>
