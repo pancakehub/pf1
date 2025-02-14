@@ -18,7 +18,7 @@ hero:
       link: https://github.com/Karroat
     - theme: alt
       text: Resume
-      link: https://drive.google.com/file/d/1C1Va9CjT2RHgasIsSAykMdnV76qwVafL/view?usp=sharing
+      link: https://drive.google.com/file/d/1vhvnb8JzY2E4LzxzcYh0HC6Juts2TV4V/view?usp=sharing
     - theme: alt
       text: LinkedIn
       link: https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=bhuvan-k-62263a243 
