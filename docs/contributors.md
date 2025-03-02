@@ -32,7 +32,7 @@
     <br />
     <a href="https://drive.google.com/file/d/1iWBi0xr7kVKRVHIq_VzObEXem9PCLxU-/view?usp=sharing" title="Resume">📄</a> 
     <a href="https://x.com/BhuvanchandaraK" title="Twitter">⚔️</a> 
-    <a href="https://www.linkedin.com/in/bhuvan-k-62263a243/" title="Linkedin">💻</a>
+    <a href="https://www.linkedin.com/in/bhuvankandhi/" title="Linkedin">💻</a>
     <a href="mailto:bhuvankandhi2002@gmail.com" title="Email">📧</a>
   </div>
 </div>

@@ -21,7 +21,7 @@ hero:
       link: https://drive.google.com/file/d/1vhvnb8JzY2E4LzxzcYh0HC6Juts2TV4V/view?usp=sharing
     - theme: alt
       text: LinkedIn
-      link: https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=bhuvan-k-62263a243 
+      link: https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=bhuvankandhi 
 
 
 # Features section
@@ -76,7 +76,7 @@ head:
 <script setup>
 import { ref } from 'vue'
 
-const quote = '📜 The average piece of junk is probably more meaningful than the criticism designating it as such.  ~ Ratatouille'
+const quote = '"Time, practice, and discipline are the architects of mastery. What you build today with patience will stand strong tomorrow." ⏳🔥'
 </script>
 
 <style scoped>
