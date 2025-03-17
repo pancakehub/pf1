@@ -13,7 +13,7 @@ export default {
     socialLinks: [{ icon: "github", link: "https://github.com/Karroat" }],
     footer: {
       message: "Released under the MIT License.",
-      copyright: "Copyright © 2024-karrot | Bhuvan.Kandhi",
+      copyright: "Copyright © 2025-karrot | Bhuvan.Kandhi",
     },
     markdown: {
       theme: "material-palenight",
